@@ -1,0 +1,52 @@
+Azure Databricks interview questions ?
+Azure Databricks interview questions
+Q1. What is Azure Databricks?
+Azure Databricks is a powerful Apache Spark-based platform purpose-built for big data analytics. It only takes a few minutes to set up and deploy on Azure, after which it is very easy to use. Seamless connectivity to other Azure services makes Databricks a great choice for data engineers who want to work with large amounts of data in the cloud. This makes Databricks a great solution.
+
+
+
+Q2. What is advantages of Azure Databricks ?
+Utilizing the oversaw groups given by Databricks can reduce your expenses related with distributed computing by up to 80%.
+
+The direct client experience given by Databricks, which works on the structure and the executives of broad information pipelines, adds to an expansion in efficiency.
+
+Your information is safeguarded by a large number of safety efforts given by Databricks, including job based admittance control and scrambled correspondence, to name only two models.
+
+
+
+Q3. Why should I use the DBU structure?
+The DBU platform is designed to simplify the process of developing Databricks applications that can work with large amounts of data. The framework (SDK) includes a command line interface (SDK), a software development kit (SDK) written in Python, and a software development kit (SDK) written in Java.
+
+
+
+Q4. What exactly does "auto scale" cluster nodes mean in the context of Azure Databricks?
+The auto scaling feature provided by Databricks allows you to automatically increase or decrease the cluster size as needed. Using only the resources you actually use is a surefire way to cut costs and waste.
+
+
+
+Q5. What can I do to troubleshoot issues with Azure Databricks?
+ If you're having trouble using Azure Databricks, you should first read the Databricks documentation. The documentation contains a concise list of common problems, solutions to those problems, and other relevant information. You can also contact Databricks support if you need help.
+
+
+
+Q6. What does the Databricks file system do? 
+The Databricks file system is used to store data written to Databricks. Data-intensive workloads are well suited to this particular distributed file system. Hadoop Distributed File System (DVFS) is compatible with Databricks Distributed File System (HDFS).
+
+Q7. What programming languages can I use to interact with Azure Databricks?. 
+Some examples of language that can be used with the Apache Spark framework are Python, Scala, and R. Azure Databricks.
+
+
+
+Q8. Also supports the SQL database language. Can I manage Databricks with PowerShell?
+No, data block management is not possible with PowerShell as it is not compatible with PowerShell. Other methods are available, including the Azure Command Line Interface (CLI), the Databricks REST API, and the Azure website itself.
+
+
+
+Q9. Databricks instances or clusters, which is better? 
+In other words, an instance is a virtual machine (VM) used to install the Databricks runtime and run commands. Spark applications are typically installed in clusters, which are collections of servers.
+
+
+
+10. What is meant by the term "management discipline" in relation to Azure Databricks?
+Only with the help of the control plane can the deployment of Databricks run smoothly. Includes the Databricks REST API, the Azure Command Line Interface (CLI), and the Azure Portal.
+
