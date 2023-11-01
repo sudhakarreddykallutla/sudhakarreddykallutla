@@ -1,0 +1,9 @@
+{
+	"name": "suredf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "4cb9c0b5-4974-4cf0-906f-15db2688675a",
+		"tenantId": "74b4cac4-0abe-4ec8-92cb-427c7b4d136d"
+	}
+}
